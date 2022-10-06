@@ -1,4 +1,4 @@
-FROM golang:1.17.10-buster
+FROM golang:1.19.2-buster
 
 SHELL ["bash", "-Eeuo", "pipefail", "-xc"]
 
